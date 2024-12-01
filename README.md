@@ -3,7 +3,7 @@ About Me
 Hello there! I'm Sahil Chaudhari, a passionate Front-end Developer based in Badlapur, Mumbai. Currently pursuing a B.Tech in Computer Engineering, I am enthusiastic about creating engaging and dynamic web applications.
 
 🌱 I'm currently learning and exploring new technologies in the world of front-end development.
-💼 Actively contributing as a Front-end Mentee at Unicode since September 2016.
+💼 Actively contributing as a Front-end Mentee at Unicode since September 2023.
 🎓 Studying B.Tech in Computer Engineering, expected to graduate in 2026.
 Skills
 Programming Languages: C, C++, Java, SQL, Python
